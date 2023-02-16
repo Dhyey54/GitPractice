@@ -1,4 +1,3 @@
 Adding into File1
 Changing file1 from  Github
-
-changing file for merge 
+Changes in feature1 branch
