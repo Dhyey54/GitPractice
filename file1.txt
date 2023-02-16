@@ -2,4 +2,4 @@ Adding into File1
 Changing file1 from  Github
 Changes in feature1 branch
 
-changes in file1 in main
+inside rebase example
